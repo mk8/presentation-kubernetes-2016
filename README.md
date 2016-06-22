@@ -12,7 +12,7 @@ June 2016
 
 tquerci@gmail.com
 
-[Online presentation](https://www.torosoft.com/kubernetes/)
+[Online presentation](http://www.torosoft.com/kubernetes/)
 
 [Source code](https://github.com/mk8/presentation-kubernetes-2016/)
 

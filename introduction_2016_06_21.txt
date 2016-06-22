@@ -18,7 +18,7 @@ June 2016
 
 tquerci@gmail.com
 
-https://www.torosoft.com/kubernetes/
+http://www.torosoft.com/kubernetes/
 
 https://github.com/mk8/presentation-kubernetes-2016/
 
